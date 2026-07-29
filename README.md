@@ -14,5 +14,5 @@ A modern and responsive personal portfolio website built with **HTML** and **CSS
 2. Ensure both `index.html` and `style.css` are in the same folder.
 3. Open `index.html` in any web browser to view the portfolio.
 
-## 📸 Preview
+##  Preview
 ![Portfolio Screenshot](portfolio_preview.png)
