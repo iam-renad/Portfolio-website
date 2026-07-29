@@ -15,4 +15,4 @@ A modern and responsive personal portfolio website built with **HTML** and **CSS
 3. Open `index.html` in any web browser to view the portfolio.
 
 ##  Preview
-![Portfolio Screenshot](portfolio_preview(2).png) 
+![screenshot](portfolio_preview(2).png)
